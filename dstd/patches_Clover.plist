@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ACPI</key>
+	<dict>
+		<key>DSDT</key>
+		<dict>
+			<key>Patches</key>
+			<array>
+				<dict>
+					<key>Comment</key>
+					<string>HPET _STA to XSTA Rename</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					ABQRX1NUQQ==
+					</data>
+					<key>Replace</key>
+					<data>
+					ABQRWFNUQQ==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>HPET _CRS to XCRS Rename</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					JV9DUlM=
+					</data>
+					<key>Replace</key>
+					<data>
+					JVhDUlM=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>IPIC IRQ 2 Patch</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					IgQAeQA=
+					</data>
+					<key>Replace</key>
+					<data>
+					IgAAeQA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>RTC IRQ 8 Patch</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					IgABeQA=
+					</data>
+					<key>Replace</key>
+					<data>
+					IgAAeQA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>TIMR IRQ 0 Patch</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					IgEAeQA=
+					</data>
+					<key>Replace</key>
+					<data>
+					IgAAeQA=
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>PNLF to XNLF Rename</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					UE5MRg==
+					</data>
+					<key>Replace</key>
+					<data>
+					WE5MRg==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>OSID to XSID rename - must come before _OSI to XOSI rename!</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					T1NJRA==
+					</data>
+					<key>Replace</key>
+					<data>
+					WFNJRA==
+					</data>
+				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>_OSI to XOSI rename - requires SSDT-XOSI.aml</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					X09TSQ==
+					</data>
+					<key>Replace</key>
+					<data>
+					WE9TSQ==
+					</data>
+				</dict>
+			</array>
+		</dict>
+		<key>SortedOrder</key>
+		<array>
+			<string>SSDT-HPET.aml</string>
+			<string>SSDT-EC.aml</string>
+			<string>SSDT-USBX.aml</string>
+			<string>SSDT-PLUG.aml</string>
+			<string>SSDT-PMC.aml</string>
+			<string>SSDT-RTCAWAC.aml</string>
+			<string>SSDT-USB-Reset.aml</string>
+			<string>SSDT-Bridge.aml</string>
+			<string>SSDT-PNLF.aml</string>
+			<string>SSDT-XOSI.aml</string>
+		</array>
+	</dict>
+</dict>
+</plist>
