@@ -23,7 +23,7 @@
 ## Misc before install:
 - Unlock CFG: 
 - https://www.reddit.com/r/Dell/comments/fzv599/xps_7590_160_uefi_unlock_undervolting_and_remove/
-- Extracted file in tools
+- Extracted file sct.txt
 
 ## Current Status
 
@@ -36,5 +36,4 @@
 
 ## Misc after install:
 - [Enable HiDPI](https://github.com/xzhih/one-key-hidpi) :
-- And RDM app in tools
-
+- And RDM app https://github.com/avibrazil/RDM
