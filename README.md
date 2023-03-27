@@ -33,7 +33,9 @@
 
 ## Triple Boot with refind
 - i can't boot windows and ubuntu from OC picker.
+- install refind in Tools.zip
+- Replace installed refind folder with refind in OC_0.9 folder for minimal theme.
 
 ## Misc after install:
 - [Enable HiDPI](https://github.com/xzhih/one-key-hidpi) :
-- And RDM app https://github.com/avibrazil/RDM
+- And RDM app in tools folder  https://github.com/avibrazil/RDM
