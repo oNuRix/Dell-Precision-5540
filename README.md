@@ -38,6 +38,7 @@
 - i can't boot windows and ubuntu from OC picker.
 - install refind in Tools.zip
 - Replace installed refind folder in EFI with refind folder in OC_0.9 folder for minimal theme.
+- https://chriswayg.gitbook.io/opencore-visual-beginners-guide/advanced-topics/dual-boot-options/create-refind-booter
 
 ## Misc after install:
 - [Enable HiDPI](https://github.com/xzhih/one-key-hidpi) :
