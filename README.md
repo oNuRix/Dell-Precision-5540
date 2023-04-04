@@ -23,7 +23,7 @@
 ## Misc before install:
 - Unlock CFG: 
 - https://www.reddit.com/r/Dell/comments/fzv599/xps_7590_160_uefi_unlock_undervolting_and_remove/
-- Extracted file sct.txt
+- Extracted file sec.txt
 
 ## Current Status
 
