@@ -2,8 +2,6 @@
 
 # Opencore Dell-Precision-5540
 
-<img width="1521" alt="Monterey" src="https://user-images.githubusercontent.com/40405226/227790654-6b96b1a6-df8e-4dbe-963e-7be5f921f3dc.png">
-
 
 
 ## Configuration
