@@ -15,7 +15,7 @@
 | Memory              | 32GB (2x16gb) 2666MMHz upgradable to 64GB |
 | NVME                | M.2 Nvme KINGSTON SNV2S1000G Media 1TB 
 | Triple Boot         |512GB For MACOS 256gb for UBUNTU 256gb for Windows|
-| Integrated Graphics | Intel UHD Graphics 630                     |
+| Integrated Graphics | Intel UHD Graphics 630 / NVIDIA Quadro T2000 Disabled      |
 | Monitor             |4k 3840x2160 touchscreen (15.6") |
 | Sound Card          | Realtek alc3266 (ALC298)          |
 | Wireless Card       | Intel AC9260 |
