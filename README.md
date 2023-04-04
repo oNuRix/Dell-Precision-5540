@@ -2,6 +2,7 @@
 
 # Opencore Dell-Precision-5540
 
+![screenshot_001](https://user-images.githubusercontent.com/40405226/229776755-ba21fc9c-94c9-46a0-9695-fb90a63f5644.png)
 
 
 ## Configuration
