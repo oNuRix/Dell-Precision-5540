@@ -28,7 +28,7 @@
 
 - **Fingerprint sensor is not working (never will work)**
 - Everything else works well except Airdrop, right mouse click on Monterey.
-- Headsphone mic doesn't work.
+- Headsphone mic, thunderbolt doesn't work.
 - Wifi , Bluetooth issue on Ventura.
 - Fix (if can't turn on) for bluetooth: sudo pkill bluetoothd , for wifi: sudo pkill wifi 
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values.
