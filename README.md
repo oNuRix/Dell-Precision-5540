@@ -1,4 +1,4 @@
-# IN TESTING!!!
+# No more have this device!!!
 
 # Opencore Dell-Precision-5540
 
